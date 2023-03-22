@@ -36,6 +36,11 @@ img {
     width: 200px;
     height: 200px;
     margin-top: 175px;
+    margin-left: 25px;
+   }
+   html, body {
+    margin: 0px;
+    padding: 0px;
    }
 
 /* Change the font-family of your list */
